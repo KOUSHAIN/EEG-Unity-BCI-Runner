@@ -1,0 +1,15 @@
+# Python virtual environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Operating system / IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Video files
+*.mp4
+*.avi
